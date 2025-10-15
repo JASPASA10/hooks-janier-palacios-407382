@@ -1,0 +1,37 @@
+ENTREGABLES - PROYECTOS ANDROID
+===============================
+
+Autor: Janier Palacios
+Código: 407382
+Curso: Programación Móvil con Android
+
+ENLACES A REPOSITORIOS:
+=======================
+
+1. Repositorio Hooks - HooksLifecycleApp:
+   https://github.com/JASPASA10/hooks-janier-palacios-407382.git
+
+2. Repositorio Compose - ComposeNavigationApp:
+   https://github.com/JASPASA10/compose-janier-palacios-407382.git
+
+ESTRUCTURA DE RAMAS - PROYECTO HOOKS:
+=====================================
+
+- main: Rama principal con el código completo
+- hook-activity-2-01: Registro de ciclo de vida con Log.d
+- hook-activity-2-02: Implementación básica de rememberSaveable
+- hook-activity-2-03: Conservación del estado al rotar pantalla
+- hook-activity-2-04: Contador persistente
+- hook-activity-2-05: Mostrar valor guardado en consola
+- hook-activity-2-06: Versión final con todos los hooks
+
+ESTRUCTURA DE RAMAS - PROYECTO COMPOSE:
+=======================================
+
+- main: Rama principal con el código completo
+- compose-activity-3-01: Implementación del Scaffold básico
+- compose-activity-3-02: Añadir barra inferior (bottom bar)
+- compose-activity-3-03: Implementar navegación entre pantallas
+- compose-activity-3-04: Versión final con diseño completo
+
+
